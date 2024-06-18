@@ -1,36 +1,10 @@
-# Chrome Extension TypeScript Starter
 
-![build](https://github.com/chibat/chrome-extension-typescript-starter/workflows/build/badge.svg)
+## How to start video
 
-Chrome Extension, TypeScript and Visual Studio Code
+[![YouTube Video](https://img.youtube.com/vi/JJwsfd9Ar7U/0.jpg)](https://youtu.be/JJwsfd9Ar7U)
 
-## Prerequisites
-
-* [node + npm](https://nodejs.org/) (Current Version)
-
-## Option
-
-* [Visual Studio Code](https://code.visualstudio.com/)
-
-## Includes the following
-
-* TypeScript
-* Webpack
-* React
-* Jest
-* Example Code
-    * Chrome Storage
-    * Options Version 2
-    * content script
-    * count up badge number
-    * background
-
-## Project Structure
-
-* src/typescript: TypeScript source files
-* src/assets: static files
-* dist: Chrome Extension directory
-* dist/js: Generated JavaScript files
+Clicking on the thumbnail image will take users to the YouTube video.
+please watch it before you start.
 
 ## Setup
 
@@ -66,5 +40,3 @@ type `Ctrl + Shift + B`
 
 Load `dist` directory
 
-## Test
-`npx jest` or `npm run test`
